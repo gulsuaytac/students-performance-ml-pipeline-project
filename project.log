@@ -1,0 +1,28 @@
+2025-12-05 23:32:51,514 - INFO - PostgreSQL'den veri baþarýyla çekildi.
+2025-12-05 23:32:51,518 - INFO - Model eðitimi baþlatýldý.
+2025-12-05 23:32:51,809 - INFO - Linear Regression - MSE: 29.095210595937125, R2: 0.8804331309980787
+2025-12-05 23:32:51,809 - INFO - Random Forest - MSE: 34.845180000000006, R2: 0.8568036117604126
+2025-12-05 23:32:52,101 - INFO - Program sorunsuz þekilde tamamlandý.
+2025-12-05 23:53:00,625 - INFO - PostgreSQL'den veri baþarýyla çekildi.
+2025-12-05 23:53:00,630 - INFO - Model eðitimi baþlatýldý.
+2025-12-05 23:53:00,978 - INFO - Model dosya olarak kaydedildi.
+2025-12-05 23:53:00,978 - INFO - Linear Regression - MSE: 29.095210595937143, R2: 0.8804331309980786
+2025-12-05 23:53:00,978 - INFO - Random Forest - MSE: 34.845180000000006, R2: 0.8568036117604126
+2025-12-05 23:53:01,273 - INFO - Program sorunsuz þekilde tamamlandý.
+2025-12-05 23:53:23,817 - INFO - Üretim modeli yüklendi.
+2025-12-06 00:03:02,260 - INFO - Model training & saving started.
+2025-12-06 00:03:02,289 - INFO - Veri çekildi: 1000 satýr, 9 sütun
+2025-12-06 00:07:16,214 - INFO - Veri çekildi: (1000, 9)
+2025-12-06 00:08:50,248 - INFO - Veri çekildi: (1000, 9)
+2025-12-06 00:09:44,584 - INFO - Veri çekildi: (1000, 9)
+2025-12-06 00:10:47,948 - INFO - Model ve feature yapýsý yüklendi.
+2025-12-06 00:11:27,531 - INFO - Üretim Tahmini Yapýldý \u2192 Writing Score: 20.563998309903702
+2025-12-06 21:59:01,511 - INFO - Model ve feature yapýsý yüklendi.
+2025-12-06 21:59:06,748 - INFO - Model ve feature yapýsý yüklendi.
+2025-12-06 21:59:40,235 - INFO - Üretim Tahmini Yapýldý \u2192 Writing Score: 8.6530457642723
+2025-12-06 22:02:04,011 - INFO - Model ve feature yapýsý yüklendi.
+2025-12-06 22:02:28,947 - INFO - Üretim Tahmini Yapýldý \u2192 Writing Score: 10.787228504213417
+2025-12-06 22:17:10,458 - INFO - Veri çekildi: (1000, 9)
+2025-12-06 22:18:01,022 - INFO - Üretim Tahmini Yapýldý \u2192 Writing Score: 93.10420603943894
+2025-12-06 22:21:26,284 - INFO - Model ve feature yapýsý yüklendi.
+2025-12-06 22:21:46,185 - INFO - Üretim Tahmini Yapýldý \u2192 Writing Score: 93.10420603943894

@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="191" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ui.main_window.*" />
+          <option value="viewer.*" />
+          <option value="ui.opengl_widget.stl_loader" />
+          <option value="ui.opengl_widget.slicer_core" />
+          <option value="main.main_window" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
